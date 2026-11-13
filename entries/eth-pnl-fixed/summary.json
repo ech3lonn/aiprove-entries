@@ -1,0 +1,14 @@
+{
+  "net_pnl_usd": 91.71,
+  "gross_pnl_usd": 128.88,
+  "fees_usd": 30.09,
+  "slippage_usd": 7.09,
+  "fills": 8,
+  "max_drawdown_usd": 45.34,
+  "final_position": 1,
+  "bars": 1440,
+  "size_eth": 1.0,
+  "taker_bps": 10.0,
+  "lookback": 240,
+  "min_hold": 45
+}
